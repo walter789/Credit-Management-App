@@ -1,5 +1,5 @@
 # CreditManagementApp
-CREDIT MANAGEMENT APP(THE SPARKS FOUNDATION INTERNSHIP)
+CREDIT MANAGEMENT APP
 
 I have developed this application using mysql as database and its structure is as in this screenshot.
 
